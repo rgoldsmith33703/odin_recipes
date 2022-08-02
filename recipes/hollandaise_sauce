@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perfect Poached Eggs</title>
+</head>
+<body>
+    <h1>Hollandaise Sauce</h1>
+    <img src="../images/hollandaise_sauce.jpg" alt="hollandaise sauce">
+    <h3>Description</h3>
+        <p>
+            For many aspiring Frech chefs, great hollandaise is the bane of their
+            existence. Far removed from the gloppy, greasy stuff you get the typical
+            diner, or worse, the powdered "just add milk" cafeteria version, a true
+            hollandaise is creamy and rich, impossibly smooth, and perfectly well 
+            balanced with the flavors of eggs, butter, and a touch of lemon juice. It
+            should flow slowly off the spoon so that it naps a poached egg in a thick 
+            robe.
+        </p>
+    <h3>Ingredients</h3>
+    <ul>
+        <li>3 large egg yolks</li>
+        <li>1 tablespoon lemon juice (from 1 lemon)</li>
+        <li>1 tablespoon hot water</li>
+        <li>1/2 pound (2 sticks) unsalted butter, cut into rough, tablespoon sized chunks</li>
+        <li>Pinch of cayenne pepper</li>
+        <li>Kosher salt</li>
+    </ul>
+    <h3>Steps</h3>
+    <ol>
+        <li>
+            <p>
+                Add the egg yolks, lemon juice, and hot water to a blendr or food 
+                processor and blend on medium speed until smooth, about 10 seconds.
+            </p>
+        </li>
+        <li>
+            <p>
+                Melt the butter in a small saucepan over medium-low heat and continue
+                to heat until the butter just begins to bubble and registers 180&deg; 
+                to 190&deg;F on an instant-read thermometer.
+            </p>
+        </li>
+        <li>
+            <p>
+                With the blender running on medium speed, slowly drizzle in the butter
+                over the course of 1 minute, stopping to scrape down the sides as necessary
+                and leaving the thin layer of whitish liquid in the bottom of the pan (discard
+                it). The sauce should be smooth, with the consistency of heavy cream. Season
+                with the cayenne and salt to taste. Transfer to a serving bowl or small saucepan,
+                cover, and keep in a warm spot (not directly over heat!) until ready to serve.
+            </p>
+        </li>
+    </ol>
+</body>
+</html>
