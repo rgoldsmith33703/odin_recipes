@@ -49,3 +49,18 @@ body {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 16px;
 }
+
+.title {
+    text-align: center;
+    font-size: 5em;
+    padding: .5em 0;
+}
+
+.recipe_list {
+    text-align: center;
+    font-size: 2em;
+}
+
+.recipe_list li {
+    padding: .5em 0;
+}
