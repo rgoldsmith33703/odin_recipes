@@ -37,3 +37,10 @@ table {
 
 /* end CSS reset */
 
+html {
+    background: rgb(146, 9, 147);
+    background: linear-gradient(197deg, rgba(146, 9, 147, 1) 0%,
+    rgba(206, 100, 207, 1) 35%, rgba(112, 75, 186, 1) 100%) no-repeat center center fixed;
+    background-size: cover;
+    color: rgb(250, 250, 250);
+}
