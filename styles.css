@@ -56,6 +56,13 @@ body {
     padding: .5em 0;
 }
 
+.sm-title {
+    text-align: center;
+    font-size: 3em;
+    padding: .5em 0;
+    text-decoration: underline;
+}
+
 .recipe_list {
     text-align: center;
     font-size: 2em;
@@ -63,4 +70,10 @@ body {
 
 .recipe_list li {
     padding: .5em 0;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
