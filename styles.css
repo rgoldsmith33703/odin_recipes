@@ -44,3 +44,8 @@ html {
     background-size: cover;
     color: rgb(250, 250, 250);
 }
+
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 16px;
+}
